@@ -1,16 +1,16 @@
 {
-  "name": "MrAdibResume",
+  "name": "MrHoseinGhasemizade",
   "version": "1.0.0",
   "description": "",
   "dependencies": {
     "tailwindcss": "^3.0.23"
   },
   "keywords": [
-    "MrAdib",
+    "Ghasemizade",
     "tailwind",
     "resume"
   ],
-  "author": "Javad Adib",
+  "author": "Hosein Ghasemizade",
   "license": "MIT",
   "devDependencies": {
     "cssnano": "^5.1.7",
